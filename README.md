@@ -1,6 +1,8 @@
 # About Me 📝
 
-I am a Web Developer & Data Analyst with experience in HTML, CSS, JavaScript, Git, GitHub, Python, SQL, Excel, and Power BI. I am passionate about web development and data analysis, where I combine my skills to create efficient, data-driven solutions. I love working collaboratively, I am committed, and I learn very quickly. I am excited about the opportunity to be part of your team and contribute to the success of the project. ✨🚀
+I am Yesenia Dávalos, a Web Developer & Mobile Developer with experience in HTML, CSS, JavaScript, TypeScript, Git, GitHub, Python, and SQL. My journey began in the world of creative design, evolving into frontend development, where I discovered my passion for building impactful digital experiences.
+I love challenging myself constantly, and I am currently exploring mobile development with React Native, allowing me to bring my creativity and technical skills to new platforms. Additionally, I have knowledge of Flask (Python) and continue expanding my skills to deliver efficient and scalable solutions.
+My goal is to keep growing in the development field and contribute my experience to every project I take part in. ✨🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesenia-davalos-buitrago-developer/) 
