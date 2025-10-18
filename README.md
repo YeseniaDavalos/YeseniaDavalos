@@ -1,8 +1,6 @@
 # About Me 📝
 
-I am Yesenia Dávalos, a Web Developer & Mobile Developer with experience in HTML, CSS, JavaScript, TypeScript, Git, GitHub, Python, and SQL. My journey began in the world of creative design, evolving into frontend development, where I discovered my passion for building impactful digital experiences.
-I love challenging myself constantly, and I am currently exploring mobile development with React Native, allowing me to bring my creativity and technical skills to new platforms. Additionally, I have knowledge of Flask (Python) and continue expanding my skills to deliver efficient and scalable solutions.
-My goal is to keep growing in the development field and contribute my experience to every project I take part in. ✨🚀
+I am Yesenia Dávalos, Data Analyst passionate about transforming information into decisions. I have experience cleansing, modeling, and visualizing data with tools such as Power BI, Excel, SQL, and Python. ✨🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesenia-davalos-buitrago-developer/) 
